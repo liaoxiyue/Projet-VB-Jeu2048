@@ -1,0 +1,75 @@
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\bin\Debug\2048.exe
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\bin\Debug\2048.pdb
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\bin\Debug\2048.xml
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\2048.exe
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\2048.xml
+K:\M1 Semestre 2\Programmation Structurée\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\廖曦月\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\2048\2048\bin\Debug\2048.xml
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖曦月\Desktop\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\bin\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\bin\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\bin\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖曦月\Desktop\projet2048\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\bin\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\bin\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\bin\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖曦月\Desktop\projet2048 - 0329\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\廖曦月\Desktop\projet2048 - 0406\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048 - 0406\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048 - 0406\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.xml
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.exe
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.pdb
+C:\Users\廖曦月\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.xml
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.exe
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.xml
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.pdb
+W:\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.exe
+W:\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.pdb
+W:\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.xml
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+W:\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.exe
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.xml
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.pdb
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.exe
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.pdb
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.xml
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\rohan\P\21611943\Desktop\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.exe
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.xml
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.pdb
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.exe
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.pdb
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\bin\Debug\2048.xml
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Form2048.resources
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\资料库\M1-S2\programmation\projet2048 - 0406 - v2\2048\2048\obj\x86\Debug\2048.vbproj.GenerateResource.Cache
